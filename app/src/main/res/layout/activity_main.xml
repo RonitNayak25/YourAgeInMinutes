@@ -47,7 +47,7 @@
         android:background="#FFFFFF"
         android:text="@string/buttonText"
         android:textAlignment="center"
-        android:textColor="#929292"
+        android:textColor="#393737"
         android:textSize="20sp"
         android:textStyle="bold"/>
 
@@ -63,7 +63,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/selectedDate"
-        android:textColor="#B7B7B7"
+        android:textColor="#2E2A2A"
         android:textSize="18sp" />
 
     <TextView
@@ -78,7 +78,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/ageInMinutes"
-        android:textColor="#B7B7B7"
+        android:textColor="#2E2A2A"
         android:textSize="18sp" />
 
 </LinearLayout>
